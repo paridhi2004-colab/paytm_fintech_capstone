@@ -4,6 +4,13 @@ This repository contains the complete three-part Paytm FinTech Capstone project,
 
 ---
 
+### Key Results Summary
+- **Payments Analytics:** Identified 3 peak-hour velocity spikes and a 4.2% reconciliation variance from duplicate log anomalies relative to total settlement volume.
+- **Credit Risk ML:** Logistic Regression outperformed Decision Trees with a test ROC-AUC of **0.9168 vs. 0.7226**.
+- **DCF & Blockchain:** Constructed a 5-year valuation model in Excel alongside a conceptual smart-contract KYC/AML governance framework.
+
+---
+
 ## Repository Structure
 
 payments_fraud_analytics/
